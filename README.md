@@ -1,2 +1,77 @@
-# bmi-calculator-python
-A command-line BMI calculator built with Python.
+# ⚖️ BMI Calculator Python
+
+A desktop **BMI Calculator** built with Python and Tkinter as **Oasis Infobyte Internship — Project 2**.
+
+## ✨ Features
+
+- Calculate BMI using metric or imperial units
+- Switch between kg/m and lbs/inches
+- Display BMI category with a visual scale
+- Show category-based health tips
+- Save and view recent calculations locally
+- Clear saved history
+- Validate invalid and non-positive inputs
+- Clean Tkinter desktop interface
+
+## 🧠 Application Flow
+
+```text
+User Input → Unit Selection → Validation → Conversion → BMI Calculation → Category → History
+```
+
+## 🛠️ Tech Stack
+
+- **Python**
+- **Tkinter** — desktop GUI
+- **JSON** — local history storage
+- **datetime** — timestamps
+
+## 📐 BMI Formula
+
+```text
+BMI = weight (kg) / height² (m²)
+```
+
+Imperial values are converted to metric units before calculation.
+
+## 📊 BMI Categories
+
+| BMI Range | Category |
+|---|---|
+| Below 18.5 | Underweight |
+| 18.5 – 24.9 | Normal weight |
+| 25.0 – 29.9 | Overweight |
+| 30.0+ | Obese |
+
+> Educational project only; BMI results should not be treated as medical advice.
+
+## 🚀 Run Locally
+
+```bash
+git clone https://github.com/tcnomithareddy28-cloud/bmi-calculator-python.git
+cd bmi-calculator-python
+python bmi_calculator.py
+```
+
+No external packages are required for the application; Tkinter is included with most standard Python desktop installations.
+
+## 📂 Project Structure
+
+```text
+bmi-calculator-python/
+├── bmi_calculator.py
+├── requirements.txt
+└── README.md
+```
+
+## 🎓 Internship
+
+**Oasis Infobyte Python Internship — Project 2**
+
+Demonstrates Python programming, GUI development, input validation, file handling, JSON storage, and application logic.
+
+## 👩‍💻 Author
+
+**Nomitha Reddy**
+
+Python | AI & Machine Learning | Data Science

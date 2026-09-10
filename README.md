@@ -80,5 +80,5 @@ Demonstrates Python programming, GUI development, input validation, file handlin
 
 ## 👩‍💻 Author
 
-**Nomitha Reddy**  
+**THURPU CHINNABBA REDDY NOMITHA**  
 Python | AI & Machine Learning | Data Science

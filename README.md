@@ -1,6 +1,13 @@
 # ⚖️ BMI Calculator Python
 
-A desktop **BMI Calculator** built with Python and Tkinter as **Oasis Infobyte Internship — Project 2**.
+A desktop **BMI Calculator** developed as **Oasis Infobyte Python Internship — Project 2** using Python and Tkinter.
+
+## 🎓 Oasis Infobyte Internship — Project 2
+
+**Project:** BMI Calculator  
+**Internship:** Python Programming Internship — Oasis Infobyte
+
+This project demonstrates practical Python programming through GUI development, input validation, unit conversion, BMI calculation, and local data storage.
 
 ## ✨ Features
 
@@ -64,14 +71,14 @@ bmi-calculator-python/
 └── README.md
 ```
 
-## 🎓 Internship
+## 🎓 Internship Details
 
-**Oasis Infobyte Python Internship — Project 2**
+**Oasis Infobyte Python Internship — Project 2**  
+**Project:** BMI Calculator
 
 Demonstrates Python programming, GUI development, input validation, file handling, JSON storage, and application logic.
 
 ## 👩‍💻 Author
 
-**Nomitha Reddy**
-
+**Nomitha Reddy**  
 Python | AI & Machine Learning | Data Science
